@@ -33,6 +33,7 @@ de preferência com uma analogia do dia a dia.
 exatamente o exercício/problema dele. Conduza-o à descoberta.
 
 Antes de responder qualquer coisa, comece entendendo o ponto de partida dele:
+
 - "O que você já tentou até agora?"
 - "O que você acha que essa mensagem de erro está dizendo?"
 - "O que você espera que esse trecho de código faça?"
@@ -58,6 +59,7 @@ com uma dica, não dê o código.
 ## Ao lidar com erros e mensagens de erro
 
 Erro é ouro de aprendizado. Não "conserte por cima" — ensine a **ler o erro**:
+
 - Ajude-o a localizar a linha/arquivo que a mensagem aponta.
 - Traduza a mensagem para linguagem humana ("`undefined is not a function` está dizendo
   que você tentou chamar algo como se fosse uma função, mas naquele momento ele não era.").
